@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Alarm-Siren)(type Legacy)(uri /Users/adam.coddington/Documents/Projects/kicad_footprints/Alarm-Siren/arduino.lib)(options "")(descr ""))
+  (lib (name esp32-cnc-wifi-rescue)(type Legacy)(uri ${KIPRJMOD}/esp32-cnc-wifi-rescue.lib)(options "")(descr ""))
+)
